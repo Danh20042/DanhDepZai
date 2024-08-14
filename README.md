@@ -1,5 +1,6 @@
-# **1.GUI DESIGN**
-## User: 
+# Shop Bán giày
+## **1.GUI DESIGN**
+### User: 
 - **Login**
 
 ![3c785a2a021aa644ff0b](https://github.com/user-attachments/assets/c412e0e1-4d06-4bda-9fa4-18d7ed17f9ac)
@@ -22,12 +23,12 @@
 
 
 - **Cart**
-## Admin 
+### Admin 
 - **Manage product**
  ![image](https://github.com/user-attachments/assets/dc1c3806-d87f-4432-ab7c-8e931894972e)
 - **Manage user** 
 ![managerUser](https://github.com/user-attachments/assets/d157634b-3d46-4d22-809b-a210e9582d94)
 
-# **2. Data base**
+## **2. Data base**
 ![6316528799b73de964a6](https://github.com/user-attachments/assets/290e6f2c-9065-45b7-b65e-46c9b2d533ed)
 
