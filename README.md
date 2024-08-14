@@ -1,8 +1,11 @@
 1.GUI
 -User: 
 +login
+
 ![3c785a2a021aa644ff0b](https://github.com/user-attachments/assets/c412e0e1-4d06-4bda-9fa4-18d7ed17f9ac)
+
 +Register
+
 ![e2c39dbe988e3cd0659f](https://github.com/user-attachments/assets/d0b11413-5f80-4169-ba11-6c87b101cab4)
 
 -Homepages
