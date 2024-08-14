@@ -9,9 +9,8 @@
 ![e2c39dbe988e3cd0659f](https://github.com/user-attachments/assets/d0b11413-5f80-4169-ba11-6c87b101cab4)
 
 - **Homepages**
-+ảnh hompage
-![image](https://github.com/user-attachments/assets/afa33271-ecef-48ef-af62-9fb59010143c)
-![image](https://github.com/user-attachments/assets/8b63f2f4-97c9-4982-af99-cf759684793f)
+![990a371aef2a4b74123b](https://github.com/user-attachments/assets/5048e415-05d9-4b2d-9bb5-3b7d63850706)
+![ee25004ddb7d7f23266c](https://github.com/user-attachments/assets/54875b1f-71a1-4d43-a66f-391b0d76f4cc)
 ![52a988744944ed1ab455](https://github.com/user-attachments/assets/fd31f9d2-e0a9-4ff1-bf17-7b4578cd70a4)
 - **shoping cart**:
 
