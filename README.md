@@ -10,6 +10,9 @@
 
 - **Homepages**
 +ảnh hompage
+![image](https://github.com/user-attachments/assets/afa33271-ecef-48ef-af62-9fb59010143c)
+![image](https://github.com/user-attachments/assets/8b63f2f4-97c9-4982-af99-cf759684793f)
+![52a988744944ed1ab455](https://github.com/user-attachments/assets/fd31f9d2-e0a9-4ff1-bf17-7b4578cd70a4)
 - **shoping cart**:
 
 ![image](https://github.com/user-attachments/assets/648dc3fe-9e22-419e-8123-ffc6889e81a3)
