@@ -1,4 +1,4 @@
-**1.GUI **
+**1.GUI**
 -User: 
 +login
 
@@ -15,6 +15,9 @@
 ![image](https://github.com/user-attachments/assets/648dc3fe-9e22-419e-8123-ffc6889e81a3)
 
 +Product detail: ảnh
+
+![image](https://github.com/user-attachments/assets/b434fb8a-de98-4009-ba68-1ffca7ba241c)
+
 
 +Cart : ảnh
 Admin 
